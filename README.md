@@ -62,9 +62,9 @@ pip install -r requirements.txt
 jupyter notebook notebooks/project_notebook.ipynb
 ```
 
-## Notes
+## Data Set
 
-The dataset is not included if it is large or restricted. If needed, add the dataset source link here.
+https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set/data
 
 ## Author
 
